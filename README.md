@@ -249,10 +249,10 @@ Please refer to the dataset page for its description and applicable terms.
 
 ## 👨‍💻 Author
 
-**Parv Agarwal**
+**Saloni Agarwal**
 
 - GitHub: https://github.com/saloniagarw
-- LinkedIn: https://www.linkedin.com/in/parv-agarwal-09b042215/
+- LinkedIn: https://www.linkedin.com/in/saloni-agarwal-7b9484291/
 
 ---
 
